@@ -373,7 +373,7 @@ li{
   color: #38a1f3;
 }
 
-.fa-database{
+.fa-microsoft{
   color: #092e20;
 }
 
@@ -445,9 +445,9 @@ li{
 
 /* start timeline */
 .timeline ul{
-  border-left: 4px solid #ffe838;
+  border-left: 4px solid #ffe808;
   border-radius: .8rem;
-  background-color: rgba(0, 0, 0, .05);
+  background-color: rgba(255, 255, 0, .05);
   margin: 0 auto;
   position: relative;
   padding: 5rem;
